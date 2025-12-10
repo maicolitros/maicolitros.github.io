@@ -5,7 +5,7 @@ body {
 }
 
 header {
-    background: #222;
+    background: #2575fc;
     padding: 20px;
     text-align: center;
     color: white;
@@ -48,4 +48,18 @@ header {
 
 .boton-whatsapp:hover {
     background: #1ebe5d;
+}
+
+.producto button {
+    margin-top: 10px;
+    padding: 10px 15px;
+    border: none;
+    background: #2575fc;
+    color: white;
+    border-radius: 6px;
+    cursor: pointer;
+}
+
+.producto button:hover {
+    background: #1a5bcc;
 }
