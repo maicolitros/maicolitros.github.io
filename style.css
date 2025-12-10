@@ -1,0 +1,88 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: #fafafa;
+}
+
+header {
+    text-align: center;
+    background: #202020;
+    color: white;
+    padding: 40px;
+}
+
+nav {
+    display: flex;
+    justify-content: center;
+    background: #ff914d;
+    padding: 10px;
+}
+
+nav a {
+    color: white;
+    margin: 0 15px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+#catalogo {
+    padding: 30px;
+    text-align: center;
+}
+
+.productos-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(230px, 1fr));
+    gap: 20px;
+}
+
+.producto {
+    background: white;
+    padding: 15px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px #ccc;
+}
+
+.producto img {
+    width: 100%;
+    border-radius: 10px;
+}
+
+.boton-wsp {
+    display: block;
+    background: #25D366;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    margin-top: 10px;
+    border-radius: 8px;
+    text-decoration: none;
+}
+
+#contacto {
+    padding: 40px;
+    background: white;
+}
+
+form {
+    max-width: 450px;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+}
+
+input, textarea {
+    margin-bottom: 15px;
+    padding: 10px;
+    border-radius: 6px;
+    border: 1px solid #aaa;
+}
+
+button {
+    background: #ff914d;
+    border: none;
+    color: white;
+    padding: 12px;
+    border-radius: 6px;
+    cursor: pointer;
+}

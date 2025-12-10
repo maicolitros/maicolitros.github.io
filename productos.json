@@ -1,0 +1,23 @@
+[
+    {
+        "nombre": "Sofá cómodo",
+        "descripcion": "Perfecto para tu sala de estar.",
+        "precio": "$300",
+        "imagen": "https://via.placeholder.com/200",
+        "categoria": "Sala"
+    },
+    {
+        "nombre": "Tazón de cerámica",
+        "descripcion": "Ideal para sopas y ensaladas.",
+        "precio": "$10",
+        "imagen": "https://via.placeholder.com/200",
+        "categoria": "Cocina"
+    },
+    {
+        "nombre": "Juego de sábanas",
+        "descripcion": "Confortable y suave para tu dormitorio.",
+        "precio": "$50",
+        "imagen": "https://via.placeholder.com/200",
+        "categoria": "Dormitorio"
+    }
+]
