@@ -1,65 +1,31 @@
-body {
-    margin: 0;
-    font-family: Arial, sans-serif;
-    background: #f2f2f2;
-}
+html { scroll-behavior: smooth; }
+body { font-family: 'Roboto', sans-serif; margin: 0; padding: 0; background: #f9f9f9; color: #333; }
 
-header {
-    background: #2575fc;
-    padding: 20px;
-    text-align: center;
-    color: white;
-}
+header { background: linear-gradient(to right, #6a11cb, #2575fc); color: white; padding: 30px 20px; text-align: center; }
+header h1 { margin: 0; font-size: 36px; }
+nav { margin-top: 15px; }
+nav a { color: white; margin: 0 15px; text-decoration: none; font-weight: 700; transition: 0.3s; }
+nav a:hover { color: #ffdd59; }
 
-.grid-productos {
-    margin: 20px;
-    display: grid;
-    gap: 20px;
-    grid-template-columns: repeat(auto-fit, minmax(230px, 1fr));
-}
+section { padding: 60px 20px; text-align: center; }
+#sobre-mi { background-color: #ecf0f1; }
+#sobre-mi img { border-radius: 50%; margin-top: 20px; width: 150px; height: 150px; object-fit: cover; }
 
-.producto {
-    background: white;
-    padding: 15px;
-    border-radius: 8px;
-    box-shadow: 0 2px 6px rgba(0,0,0,0.15);
-    text-align: center;
-}
+#catalogo input, #catalogo select { padding: 10px; border-radius: 8px; border: 1px solid #ccc; margin-bottom: 20px; font-size: 16px; }
+.productos-container { display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; margin-top: 20px; }
+.producto-card { background: white; border-radius: 15px; box-shadow: 0 5px 15px rgba(0,0,0,0.2); padding: 20px; width: 220px; text-align: center; transition: transform 0.3s, box-shadow 0.3s; }
+.producto-card img { width: 100%; height: 150px; object-fit: cover; border-radius: 10px; cursor: pointer; }
+.producto-card:hover { transform: scale(1.05); box-shadow: 0 10px 25px rgba(0,0,0,0.3); }
+.producto-card button { margin-top: 10px; padding: 10px 15px; background-color: #2575fc; color: white; border: none; border-radius: 8px; cursor: pointer; transition: 0.3s; }
+.producto-card button:hover { background-color: #6a11cb; }
 
-.producto img {
-    width: 100%;
-    border-radius: 8px;
-}
+#contacto { background-color: #ecf0f1; }
+form { display: inline-block; text-align: left; max-width: 350px; width: 100%; }
+form label { font-weight: bold; }
+form input, form textarea { width: 100%; padding: 10px; margin-top: 5px; margin-bottom: 15px; border: 1px solid #ccc; border-radius: 8px; font-size: 16px; box-sizing: border-box; }
+form button { padding: 12px 25px; background-color: #2575fc; color: white; border: none; border-radius: 8px; font-size: 16px; cursor: pointer; transition: 0.3s; }
+form button:hover { background-color: #6a11cb; }
 
-.producto h3 {
-    margin: 10px 0 5px;
-}
-
-.boton-whatsapp {
-    display: block;
-    background: #25D366;
-    color: white;
-    margin-top: 10px;
-    padding: 10px;
-    border-radius: 6px;
-    text-decoration: none;
-    font-weight: bold;
-}
-
-.boton-whatsapp:hover {
-    background: #1ebe5d;
-}
-
-.producto button {
-    margin-top: 10px;
-    padding: 10px 15px;
-    border: none;
-    background: #2575fc;
-    color: white;
-    border-radius: 6px;
-    cursor: pointer;
-}
-
-.producto button:hover {
-    background: #1a5bcc;
-}
+footer { background-color: #2c3e50; color: white; text-align: center; padding: 20px; }
+footer a { color: #ffdd59; text-decoration: none; margin: 0 10px; transition: 0.3s; }
+footer a:hover { text-decoration: underline; }
