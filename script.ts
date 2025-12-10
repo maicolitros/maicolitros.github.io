@@ -25,7 +25,6 @@ async function cargarProductos() {
                 <a href="https://wa.me/34643261975?text=¡Hola!%20Me%20gustaría%20más%20información%20sobre:%20${encodeURIComponent(prod.nombre)}"
                    class="boton-whatsapp" target="_blank">Consultar por WhatsApp</a>
 
-                <br>
                 <button onclick="abrirGaleria(${index})">Ver fotos</button>
             `;
 
