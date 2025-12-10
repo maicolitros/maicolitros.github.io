@@ -1,57 +1,35 @@
 [
     {
-        "nombre": "Armario Pequeño 200x100x50",
-        "descripcion": "Ideal para habitaciones pequeñas.",
-        "precio": "185.00€",
-        "imagen": "https://scontent-bcn1-1.xx.fbcdn.net/v/t39.30808-6/597064026_904080168638618_6520863009815127943_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=127cfc&_nc_ohc=sbUku3VEo7oQ7kNvwGaBiAQ&_nc_oc=AdneSHN0cV2EwxdcG-igYs7_5Xeh8VeXetC26998mc_PN40-qpTD0bUHWVkKiucdH3g&_nc_zt=23&_nc_ht=scontent-bcn1-1.xx&_nc_gid=atRUGHcb3Ssbg62IMXfU4w&oh=00_AfnhED_NLF3n1f0j7Ui0dFIpY-Wk2K25QDrQEaWzD2L2nw&oe=693F1A67",
-        "categoria": "Armario"
+        "nombre": "Sofá Cómodo",
+        "descripcion": "Perfecto para tu sala de estar",
+        "precio": "300€",
+        "categoria": "Sala",
+        "imagenes": [
+            {
+                "url": "img/sofa/sofa1.jpg",
+                "descripcion": "Vista frontal"
+            },
+            {
+                "url": "img/sofa/sofa2.jpg",
+                "descripcion": "Vista lateral"
+            }
+        ]
     },
+
     {
-        "nombre": "Sofa estilo Oscar",
-        "descripcion": "Comodo y elegante para tu sala de estar (265cm) Disponible en varios colores.",
-        "precio": "439.00€",
-        "imagen": "https://scontent.fbcn7-3.fna.fbcdn.net/v/t39.30808-6/597670508_904097595303542_4078633310810070404_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_ohc=FZDHa7J_WL0Q7kNvwEdMulQ&_nc_oc=AdneFmUPol0dKCzvweRVi3qodOmDghQbBwfOJ-tlLefqywrblSHLHYQRh2tIysNP_Wk&_nc_zt=23&_nc_ht=scontent.fbcn7-3.fna&_nc_gid=9Z6JI4KEid8wenhCMpiM0A&oh=00_AflS9DNe8Fdbq1j-kweQr-BKvT8DgJ8CIWt2OiXy0pa4_A&oe=693F3CCE",
-        "categoria": "Sofa"
-    },
-    {
-        "nombre": "Armario grande 200x200x50cm",
-        "descripcion": "Amplio y elegante, le dara vida a tu habitacion.",
-        "precio": "270.00€",
-        "imagen": "https://scontent.fbcn7-3.fna.fbcdn.net/v/t39.30808-6/595361045_904109108635724_2675985047739638770_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_ohc=o2v6d9MDnu0Q7kNvwGCGP8u&_nc_oc=Adn8eFwuEJLM3EnGfKk7xh8fWrm7UYxSFrjEy_uU3Vrh9njOCbr1OmQ8EQl2Fphga3Y&_nc_zt=23&_nc_ht=scontent.fbcn7-3.fna&_nc_gid=3vHGkXoZHfTt56z1yXfwRQ&oh=00_AfmZ9p_5Nj130-QH54Fbyx87COUEID7he6fXmN5w6OH5oQ&oe=693FBE74",     
-        "categoria": "Armario"
-    },
-    {
-        "nombre": "PC Gamer Completa (64GB+Grafica RX 570 series",
-        "descripcion": "PC gamer potente para correr los juegos actuales sin problema, con monitor 24 teclado y mouse",
-        "precio": "350.00€",
-        "imagen": "https://scontent.fbcn7-2.fna.fbcdn.net/v/t45.5328-4/587245111_857232603468265_5077297819934401363_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=106&ccb=1-7&_nc_sid=247b10&_nc_ohc=ZDJfAL6CcyEQ7kNvwHH2ky1&_nc_oc=AdlubL75SzBpvY2_g_jciwGAv2HezNhneccDaGbYggwjpSKJ6sGRtkqkYx6ESLPV3PA&_nc_zt=23&_nc_ht=scontent.fbcn7-2.fna&_nc_gid=6-r3KJqIk_RutoP34vcfGA&oh=00_AfmC1cVRneadmdtfAyzPUIsf7x9Gy_hng3FbWpreQYPhKA&oe=693F28BC",
-        "categoria": "Electronica"
-    },
-    {
-        "nombre": "Canapes",
-        "descripcion": "Adaptable a tus medidas y gustos desde 90x190",
-        "precio": "170.00€",
-        "imagen": "https://scontent.fbcn7-3.fna.fbcdn.net/v/t39.30808-6/594872785_904113868635248_2731754222289943570_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=127cfc&_nc_ohc=AvV1PpLisM8Q7kNvwFgggPy&_nc_oc=AdlioSTQv3sp_zKGIM0BqUqEmFoTMlOj1Si2I3rM-YlZfZsI3RHya6rQcFlTQr0YeyA&_nc_zt=23&_nc_ht=scontent.fbcn7-3.fna&_nc_gid=jm61pQNk0Uv5Hlgz3Yu6wg&oh=00_AflnuTTr-W2cn1H6Zii1KnQOChIZ4KtCc9gfOd4tPdzsEA&oe=693F25D5",
-        "categoria": "Dormitorio"
+        "nombre": "Armario Pequeño",
+        "descripcion": "Ideal para habitaciones pequeñas",
+        "precio": "185€",
+        "categoria": "Armarios",
+        "imagenes": [
+            {
+                "url": "img/armario/armario1.jpg",
+                "descripcion": "Interior del armario"
+            },
+            {
+                "url": "img/armario/armario2.jpg",
+                "descripcion": "Vista cerrada"
+            }
+        ]
     }
 ]
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
