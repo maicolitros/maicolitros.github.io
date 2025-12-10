@@ -7,10 +7,10 @@
         "categoria": "Sala"
     },
     {
-        "nombre": "Tazón de cerámica",
-        "descripcion": "Ideal para sopas y ensaladas.",
-        "precio": "$10",
-        "imagen": "https://via.placeholder.com/200",
+        "nombre": "Sofa estilo Oscar",
+        "descripcion": "Comodo y elegante ppara tu sala de estar (265cm) Disponible en varios colores.",
+        "precio": "439.00€",
+        "imagen": "https://scontent.fbcn7-3.fna.fbcdn.net/v/t39.30808-6/597670508_904097595303542_4078633310810070404_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_ohc=FZDHa7J_WL0Q7kNvwEdMulQ&_nc_oc=AdneFmUPol0dKCzvweRVi3qodOmDghQbBwfOJ-tlLefqywrblSHLHYQRh2tIysNP_Wk&_nc_zt=23&_nc_ht=scontent.fbcn7-3.fna&_nc_gid=9Z6JI4KEid8wenhCMpiM0A&oh=00_AflS9DNe8Fdbq1j-kweQr-BKvT8DgJ8CIWt2OiXy0pa4_A&oe=693F3CCE",
         "categoria": "Cocina"
     },
     {
@@ -35,6 +35,7 @@
         "categoria": "Dormitorio"
     }
 ]
+
 
 
 
