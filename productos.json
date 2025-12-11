@@ -63,6 +63,13 @@
         "categoria": "Literas"
     },
     {
+        "nombre": "Comedor 6 puestos 140x80cm",
+        "descripcion": "Diseño unico, encaja perfecto con cualquier decoracion, incluye sillas en elegante color negro ",
+        "precio": "209.00€",
+        "imagen": "https://scontent.fbcn7-2.fna.fbcdn.net/v/t39.30808-6/596803649_904466875266614_6386275226144266046_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=127cfc&_nc_ohc=aBHUho6SaqAQ7kNvwHoiFC0&_nc_oc=AdkmF2UIQmup6t1mgBL_eT_LRz8dt7nvxJPY9kUvBOOFvzEKruXKkqbU-g4j1dNfs8k&_nc_zt=23&_nc_ht=scontent.fbcn7-2.fna&_nc_gid=iAnamshMvhmP-8Bk8UnKOA&oh=00_Afk9HHyCsM6Eji-gKzJ8YPNvak88dRNYbeULQnUt5k5ANA&oe=693FF874",
+        "categoria": "Comedor"
+    },
+    {
         "nombre": "",
         "descripcion": "",
         "precio": "",
@@ -70,6 +77,7 @@
         "categoria": ""
     }
 ]
+
 
 
 
