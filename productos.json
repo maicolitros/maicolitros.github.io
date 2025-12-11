@@ -28,11 +28,11 @@
         "categoria": "Electronica"
     }
      {
-        "nombre": "",
-        "descripcion": "",
-        "precio": "",
-        "imagen": "",
-        "categoria": ""
+        "nombre": "PC gamer i5+20GB Ram + Nvidea GeForce gtx 770",
+        "descripcion": "Gran pc completa lista para correr lo mas jugado del mercado, cuenta con monitor de 24 a 120ghz teclado y mouse",
+        "precio": "250.00€",
+        "imagen": "https://scontent.fbcn7-3.fna.fbcdn.net/v/t45.5328-4/595638971_1344625480227800_1752018598285066239_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=102&ccb=1-7&_nc_sid=247b10&_nc_ohc=SmTlPC0ClkUQ7kNvwFwZNbX&_nc_oc=AdmA4zOR8e_X1gy-T4HWUsbcLZa7zhk94HLZgZpXSx7loG8AbSBTAilQ7C3LTGsse9M&_nc_zt=23&_nc_ht=scontent.fbcn7-3.fna&_nc_gid=GA8-j9RTAPWnAQZH3DSmyg&oh=00_AfnoN-xOnKP0ke3zy-rmfQ332unpRl99xXOtyqe0dX1PCg&oe=693FECA1",
+        "categoria": "Electronica"
     }
      {
         "nombre": "",
@@ -42,6 +42,7 @@
         "categoria": ""
     }
 ]
+
 
 
 
