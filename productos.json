@@ -2,23 +2,24 @@
     {
         "nombre": "Bienvenidos a Llar a Llar, diseñada con la finalidad de ayudarte a encontrar lo que buscas",
         "descripcion": "De momento es un modelo en desarrollo, si te gusta algun producto, contactame, tengo mas diseños y estilos",
-        "precio": "el precio puede variar depende el tamaño de los articulos",
+        "precio": "el precio puede variar depende el tamaño de los articulos, pagos contraentrega para una mayor confianza, coste del envio 10.00€ en articulos grandes",
         "imagen": "https://scontent.fbcn7-2.fna.fbcdn.net/v/t39.30808-6/596935336_904405458606089_456510459777651955_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=127cfc&_nc_ohc=n8sBfoU-U_wQ7kNvwGoB05d&_nc_oc=Adn4_kAyidZLD5iEyxYTibJlZwWjjI0dXs9oQiTVATHHGOdpae_dpwbJnaW4mAyX3-s&_nc_zt=23&_nc_ht=scontent.fbcn7-2.fna&_nc_gid=Cjgcc49ReN5xm5jOJTi45g&oh=00_AfmSGn1T6wsMXbe3U15MYSzCw3gI4H5fAnSJ_svmVcqG6Q&oe=693FCEB6",
-        "categoria": "Hogar"
+        "categoria": "Ponte en contacto para mas informacion"
     },
     {
-        "nombre": "Tazón de cerámica",
-        "descripcion": "Ideal para sopas y ensaladas.",
-        "precio": "$10",
-        "imagen": "https://via.placeholder.com/200",
-        "categoria": "Cocina"
+        "nombre": "Armario Amplio: 200x200x50",
+        "descripcion": "Ideal para este invierno, donde necesitaras mucho espacio para tus abrigos.",
+        "precio": "270.00€",
+        "imagen": "https://scontent.fbcn7-3.fna.fbcdn.net/v/t39.30808-6/595361045_904109108635724_2675985047739638770_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_ohc=o2v6d9MDnu0Q7kNvwGCGP8u&_nc_oc=Adn8eFwuEJLM3EnGfKk7xh8fWrm7UYxSFrjEy_uU3Vrh9njOCbr1OmQ8EQl2Fphga3Y&_nc_zt=23&_nc_ht=scontent.fbcn7-3.fna&_nc_gid=3vHGkXoZHfTt56z1yXfwRQ&oh=00_AfmZ9p_5Nj130-QH54Fbyx87COUEID7he6fXmN5w6OH5oQ&oe=693FBE74",
+        "categoria": "Armario"
     },
     {
-        "nombre": "Juego de sábanas",
-        "descripcion": "Confortable y suave para tu dormitorio.",
-        "precio": "$50",
-        "imagen": "https://via.placeholder.com/200",
+        "nombre": "Canapes de madera estilo Dubai 90x190cm",
+        "descripcion": "Elegante, bisagras de calidad, tejidos 3D, con gran capacidad de almacen",
+        "precio": "170.00€",
+        "imagen": "https://scontent.fbcn7-3.fna.fbcdn.net/v/t39.30808-6/594872785_904113868635248_2731754222289943570_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=127cfc&_nc_ohc=AvV1PpLisM8Q7kNvwFgggPy&_nc_oc=AdlioSTQv3sp_zKGIM0BqUqEmFoTMlOj1Si2I3rM-YlZfZsI3RHya6rQcFlTQr0YeyA&_nc_zt=23&_nc_ht=scontent.fbcn7-3.fna&_nc_gid=Htyyl43EyOyMl_qTumEO-w&oh=00_AfmOr5vJjR4SsEp0bTgeQkltSy4ALFsWyCzF5hVbO5OoYw&oe=693FCE95",
         "categoria": "Dormitorio"
     }
 ]
+
 
