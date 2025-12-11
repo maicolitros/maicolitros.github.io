@@ -35,6 +35,34 @@
         "categoria": "Electronica"
     },
      {
+        "nombre": "Sofa estilo Oscar 265cm",
+        "descripcion": "Amplio sofa, comodo para toda la familia",
+        "precio": "439.00€",
+        "imagen": "https://scontent.fbcn7-3.fna.fbcdn.net/v/t39.30808-6/597670508_904097595303542_4078633310810070404_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_ohc=yHedSFqqGZwQ7kNvwGFpCmn&_nc_oc=Adm4ZkctFIPJswZUEdxiTWjKsjoYZhHZ3IejMI9es9tvi7bbb4fpJGo3yfHMaVrJQWI&_nc_zt=23&_nc_ht=scontent.fbcn7-3.fna&_nc_gid=awQxhULAuVcnx1UXgg31FQ&oh=00_AfnZNeDyJ6e2JV-Ai_pVIO25riQ8TzMhO_nLJQ9U4XroFA&oe=693FE58E",
+        "categoria": "Muebles"
+    },
+    {
+        "nombre": "Armario pequeño 200x100x50cm",
+        "descripcion": "Estilo compacto, diseñado para habitaciones pequeñas",
+        "precio": "185.00€",
+        "imagen": "https://scontent.fbcn7-2.fna.fbcdn.net/v/t39.30808-6/597064026_904080168638618_6520863009815127943_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=127cfc&_nc_ohc=sbUku3VEo7oQ7kNvwF0Vvud&_nc_oc=AdlIhIISa6ChXoygbYnEy4J6CnsJETDSmP-1Ql7p61SQyfKfVvMzVCV7lyBusxo7CBs&_nc_zt=23&_nc_ht=scontent.fbcn7-2.fna&_nc_gid=mpB5qJ6fq_wNvZ4nQCyZUw&oh=00_Afn0rYp6G7BBslKUn2-rp9RWWZfsxfPMQ4msU3n9lX4IVw&oe=693FFB67",
+        "categoria": "Armario"
+    },
+    {
+        "nombre": "Somier Basico 90x190cm",
+        "descripcion": "Confortable y resistente, hecho en acero a tu medida, con almacenamiento por debajo",
+        "precio": "55.00€",
+        "imagen": "https://elalmacendelcolchon.com/1006-large_default/modelo-luxe.jpg",
+        "categoria": "Somier"
+    },
+    {
+        "nombre": "Litera estilo Eco 90x190cm",
+        "descripcion": "Gana espacio extra con nuestras literas de acero, con barandilla de seguridad",
+        "precio": "209€",
+        "imagen": "https://scontent.fbcn7-2.fna.fbcdn.net/v/t39.30808-6/597271186_904462545267047_6959728706034086564_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=127cfc&_nc_ohc=rzct47qd6xUQ7kNvwGltmnp&_nc_oc=AdnrlmKOVn67-SO2Q6lHGmxOiE7PknzJYVseEZddD-FhuJL7HUyWqLGH-UxuIT2l1vs&_nc_zt=23&_nc_ht=scontent.fbcn7-2.fna&_nc_gid=XalmCmVnJ_kwuZtipuMSGA&oh=00_AflV6rlUb937lL70HoZ6hYEVLfhwTERfqpEbR6jIUhGcgw&oe=693FCCA8",
+        "categoria": "Literas"
+    },
+    {
         "nombre": "",
         "descripcion": "",
         "precio": "",
@@ -42,6 +70,8 @@
         "categoria": ""
     }
 ]
+]
+
 
 
 
